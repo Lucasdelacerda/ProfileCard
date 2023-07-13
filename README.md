@@ -27,4 +27,4 @@ This project was developed with the following technologies:
 
 Project card is a social network information aggregator
 
-# ProfileCard
+
