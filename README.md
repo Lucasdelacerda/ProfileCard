@@ -1,30 +1,26 @@
+# Profile Card - Front-end Mentor Project
 
-<h1 align="center"> Profile card </h1>
+This is a Profile Card project created as part of Front-end Mentor activities. The goal is to practice HTML, CSS, and Flexbox layout skills using a design provided by the platform.
 
-<p align="center">
-Exclusive and free program, promoted by <a href="https://www.freecodecamp.org/learn"> freecodecamp</a> for teaching WEB technologies. <br/>
+## Demo
 
-</p>
+![Project Cover](./desktop-design.jpg)
 
+## Technologies Used
 
+- HTML
+- CSS (Flexbox)
 
-<br>
+## Installation and Usage
 
-<p align="center">
-  <img alt="Profile card preview" src="./design/desktop-design.jpg" width="100%">
-</p>
+1. Clone this [repository](https://github.com/Lucasdelacerda/ProfileCard) or download the files.
+2. Navigate to the project directory on your file system.
 
-## 🚀 Technologies
+## Learning and Observations
 
+In this project, the `position: relative` property was used to position one image above another with greater precision. In the future, the project will be enhanced to fetch real data.
 
+## Credits
 
-This project was developed with the following technologies:
-
-- HTML e CSS
-
-
-## 💻 Project
-
-Project card is a social network information aggregator
-
-
+- Original design provided by [Front-end Mentor](https://www.frontendmentor.io/home)
+- Author: Lucas de Lacerda

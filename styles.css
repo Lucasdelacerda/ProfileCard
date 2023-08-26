@@ -5,6 +5,7 @@
 body {
   background-color: hsl(185, 75%, 39%);
   font-family: 'Kumbh Sans', sans-serif;
+  overflow-y: hidden;
 }
 
 .top-circle {
